@@ -1,5 +1,5 @@
 """
-Dedalus script simulating Boussinesq convection in a spherical shell. This script
+Dedalus script simulating Roating Boussinesq convection in a spherical shell. This script
 demonstrates solving an initial value problem in the shell. It can be ran serially
 or in parallel, and uses the built-in analysis framework to save data snapshots
 to HDF5 files. The `plot_shell.py` script can be used to produce plots from the
